@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "uc3-loader",
+  "name": "UC3 Loader",
+  "version": "1.0.0",
+  "environment": "*",
+  "description": "The base mod loader.",
+  "provides": ["fabricloader"],
+  "contact": {
+    "homepage": "https://uc.gamingcraft.de/"
+  },
+  "license": "Apache-2.0",
+  "authors": [
+    "UtilityClient Contributors",
+    "FabricMC"
+  ]
+}
